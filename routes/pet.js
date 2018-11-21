@@ -1,4 +1,5 @@
-let Pet = require("../model/pet");
+// fix to test error
+//let Pet = require("../model/pet");
 
 /*
  * GET /pets route to retrieve all the pets.
